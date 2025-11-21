@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d88c9fddeb4acc66386f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cr35ia_ros2_moveit2",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cr35ia_ros2_moveit2_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cr35ia_ros2_moveit2_uninstall-615ea547c0ac1acda8fe.json",
+					"name" : "cr35ia_ros2_moveit2_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-1ea7b7153f086fa2ac7f.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/drail/ros2_ws/build/cr35ia_ros2_moveit2",
+		"source" : "/home/drail/ros2_ws/src/ros2_RobotSimulation/Fanuc/CR35iA/cr35ia_ros2_moveit2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

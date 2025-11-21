@@ -1,0 +1,26 @@
+{
+  "package_name": "conveyorbelt_msgs",
+  "output_dir": "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_generator_c/conveyorbelt_msgs",
+  "template_dir": "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_adapter/conveyorbelt_msgs:msg/ConveyorBeltState.idl",
+    "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_adapter/conveyorbelt_msgs:srv/ConveyorBeltControl.idl"
+  ],
+  "target_dependencies": [
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../../../local/lib/python3.10/dist-packages/rosidl_generator_c/__init__.py",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_adapter/conveyorbelt_msgs/msg/ConveyorBeltState.idl",
+    "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_adapter/conveyorbelt_msgs/srv/ConveyorBeltControl.idl"
+  ]
+}

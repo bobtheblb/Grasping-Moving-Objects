@@ -1,0 +1,47 @@
+{
+  "package_name": "turtlesim",
+  "output_dir": "/home/drail/ros2_ws/build/turtlesim/rosidl_typesupport_c/turtlesim",
+  "template_dir": "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:action/RotateAbsolute.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Color.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Pose.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Kill.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/SetPen.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Spawn.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportAbsolute.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportRelative.idl"
+  ],
+  "ros_interface_dependencies": [
+    "action_msgs:/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalInfo.idl",
+    "action_msgs:/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalStatus.idl",
+    "action_msgs:/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalStatusArray.idl",
+    "action_msgs:/home/drail/ros2_humble/ros2-linux/share/action_msgs/srv/CancelGoal.idl",
+    "builtin_interfaces:/home/drail/ros2_humble/ros2-linux/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/drail/ros2_humble/ros2-linux/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/home/drail/ros2_humble/ros2-linux/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/home/drail/ros2_humble/ros2-linux/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/home/drail/ros2_humble/ros2-linux/local/lib/python3.10/dist-packages/rosidl_typesupport_c/__init__.py",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim/action/RotateAbsolute.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim/msg/Color.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim/msg/Pose.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim/srv/Kill.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim/srv/SetPen.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim/srv/Spawn.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim/srv/TeleportAbsolute.idl",
+    "/home/drail/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim/srv/TeleportRelative.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalInfo.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalStatus.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalStatusArray.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/action_msgs/srv/CancelGoal.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/builtin_interfaces/msg/Duration.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/builtin_interfaces/msg/Time.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

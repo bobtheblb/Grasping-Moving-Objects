@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-10cb8a42cb4a1c8c14fb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ur3_ros2_gazebo",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-d160f09d3abcf73c5ae3.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ur3_ros2_gazebo_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ur3_ros2_gazebo_uninstall-e5f8009cdbdbe06821e4.json",
+					"name" : "ur3_ros2_gazebo_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/drail/ros2_ws/build/ur3_ros2_gazebo",
+		"source" : "/home/drail/ros2_ws/src/ros2_RobotSimulation/UniversalRobots/UR3/ur3_ros2_gazebo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

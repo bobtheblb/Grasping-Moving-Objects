@@ -1,0 +1,71 @@
+[  4%] [32mBuilding CXX object CMakeFiles/moveXYZW_action.dir/scripts/moveXYZW_action.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/moveRs_action.dir/scripts/moveRs_action.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/moveR_action.dir/scripts/moveR_action.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/moveJs_action.dir/scripts/moveJs_action.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/moveG_action.dir/scripts/moveG_action.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/moveJ_action.dir/scripts/moveJ_action.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/moveL_action.dir/scripts/moveL_action.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/moveRP_action.dir/scripts/moveRP_action.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/moveXYZ_action.dir/scripts/moveXYZ_action.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/moveYPR_action.dir/scripts/moveYPR_action.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/moveROT_action.dir/scripts/moveROT_action.cpp.o[0m
+[ 54%] [32m[1mLinking CXX executable moveROT_action[0m
+[ 59%] [32m[1mLinking CXX executable moveL_action[0m
+[ 63%] [32m[1mLinking CXX executable moveJs_action[0m
+[ 68%] [32m[1mLinking CXX executable moveR_action[0m
+[ 72%] [32m[1mLinking CXX executable moveG_action[0m
+[ 77%] [32m[1mLinking CXX executable moveJ_action[0m
+[ 81%] [32m[1mLinking CXX executable moveXYZ_action[0m
+[ 86%] [32m[1mLinking CXX executable moveRP_action[0m
+[ 90%] [32m[1mLinking CXX executable moveXYZW_action[0m
+[ 95%] [32m[1mLinking CXX executable moveYPR_action[0m
+[100%] [32m[1mLinking CXX executable moveRs_action[0m
+[100%] Built target moveL_action
+[100%] Built target moveROT_action
+[100%] Built target moveJs_action
+[100%] Built target moveR_action
+[100%] Built target moveG_action
+[100%] Built target moveJ_action
+[100%] Built target moveRP_action
+[100%] Built target moveXYZ_action
+[100%] Built target moveXYZW_action
+[100%] Built target moveYPR_action
+[100%] Built target moveRs_action
+-- Install configuration: ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveJ_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveJ_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveJs_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveJs_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveG_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveG_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveXYZW_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveXYZW_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveL_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveL_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveR_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveR_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveRs_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveRs_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveXYZ_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveXYZ_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveYPR_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveYPR_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveROT_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveROT_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveRP_action
+-- Set runtime path of "/home/drail/ros2_ws/install/ros2_actions/lib/ros2_actions/moveRP_action" to ""
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ament_index/resource_index/package_run_dependencies/ros2_actions
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ament_index/resource_index/parent_prefix_path/ros2_actions
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/environment/ament_prefix_path.sh
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/environment/ament_prefix_path.dsv
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/environment/path.sh
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/environment/path.dsv
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/local_setup.bash
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/local_setup.sh
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/local_setup.zsh
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/local_setup.dsv
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/package.dsv
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ament_index/resource_index/packages/ros2_actions
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/cmake/ros2_actionsConfig.cmake
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/cmake/ros2_actionsConfig-version.cmake
+-- Installing: /home/drail/ros2_ws/install/ros2_actions/share/ros2_actions/package.xml

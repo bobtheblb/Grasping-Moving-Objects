@@ -1,0 +1,4 @@
+Invoking command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drail/ros2_ws/build/irb120_ros2_gazebo -- -j24 -l24
+Invoked command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drail/ros2_ws/build/irb120_ros2_gazebo -- -j24 -l24
+Invoking command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drail/ros2_ws/build/irb120_ros2_gazebo
+Invoked command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drail/ros2_ws/build/irb120_ros2_gazebo

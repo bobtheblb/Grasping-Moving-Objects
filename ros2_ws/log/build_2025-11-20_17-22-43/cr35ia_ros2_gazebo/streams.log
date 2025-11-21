@@ -1,0 +1,62 @@
+[0.102s] Invoking command in '/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/cr35ia_ros2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/drail/ros2_ws/install/ur5_ros2_moveit2:/home/drail/ros2_ws/install/ur5_ros2_gazebo:/home/drail/ros2_ws/install/ur3_ros2_moveit2:/home/drail/ros2_ws/install/ur3_ros2_gazebo:/home/drail/ros2_ws/install/ur10_ros2_moveit2:/home/drail/ros2_ws/install/ur10_ros2_gazebo:/home/drail/ros2_ws/install/ros2_grasping:/home/drail/ros2_ws/install/ros2_execution:/home/drail/ros2_ws/install/ros2_actions:/home/drail/ros2_ws/install/panda_ros2_moveit2:/home/drail/ros2_ws/install/irb6640_ros2_moveit2:/home/drail/ros2_ws/install/irb120_ros2_moveit2:/home/drail/ros2_ws/install/irb1200_ros2_moveit2:/home/drail/ros2_ws/install/iiwa_ros2_moveit2:/home/drail/ros2_ws/install/cr35ia_ros2_moveit2:/home/drail/ros2_ws/install/ros2_data:/home/drail/ros2_ws/install/panda_ros2_gazebo:/home/drail/ros2_ws/install/irb6640_ros2_gazebo:/home/drail/ros2_ws/install/irb120_ros2_gazebo:/home/drail/ros2_ws/install/irb1200_ros2_gazebo:/home/drail/ros2_ws/install/iiwa_ros2_gazebo:/home/drail/ros2_ws/install/cr35ia_ros2_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/cr35ia_ros2_gazebo -- -j24 -l24
+[0.123s] -- Found ament_cmake: 1.3.12 (/home/drail/ros2_humble/ros2-linux/share/ament_cmake/cmake)
+[0.123s] [0mCMake Error: The current CMakeCache.txt directory /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/cr35ia_ros2_gazebo/CMakeCache.txt is different than the directory /home/drail/ros2_ws/build/cr35ia_ros2_gazebo where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.251s] -- Found ament_lint_auto: 0.12.14 (/home/drail/ros2_humble/ros2-linux/share/ament_lint_auto/cmake)
+[0.330s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.335s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.336s] -- Added test 'lint_cmake' to check CMake code style
+[0.336s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.339s] -- Added test 'xmllint' to check XML markup files
+[0.340s] -- Configuring done
+[0.343s] -- Generating done
+[0.345s] -- Build files have been written to: /home/drail/ros2_ws/build/cr35ia_ros2_gazebo
+[0.398s] Invoked command in '/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/cr35ia_ros2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/drail/ros2_ws/install/ur5_ros2_moveit2:/home/drail/ros2_ws/install/ur5_ros2_gazebo:/home/drail/ros2_ws/install/ur3_ros2_moveit2:/home/drail/ros2_ws/install/ur3_ros2_gazebo:/home/drail/ros2_ws/install/ur10_ros2_moveit2:/home/drail/ros2_ws/install/ur10_ros2_gazebo:/home/drail/ros2_ws/install/ros2_grasping:/home/drail/ros2_ws/install/ros2_execution:/home/drail/ros2_ws/install/ros2_actions:/home/drail/ros2_ws/install/panda_ros2_moveit2:/home/drail/ros2_ws/install/irb6640_ros2_moveit2:/home/drail/ros2_ws/install/irb120_ros2_moveit2:/home/drail/ros2_ws/install/irb1200_ros2_moveit2:/home/drail/ros2_ws/install/iiwa_ros2_moveit2:/home/drail/ros2_ws/install/cr35ia_ros2_moveit2:/home/drail/ros2_ws/install/ros2_data:/home/drail/ros2_ws/install/panda_ros2_gazebo:/home/drail/ros2_ws/install/irb6640_ros2_gazebo:/home/drail/ros2_ws/install/irb120_ros2_gazebo:/home/drail/ros2_ws/install/irb1200_ros2_gazebo:/home/drail/ros2_ws/install/iiwa_ros2_gazebo:/home/drail/ros2_ws/install/cr35ia_ros2_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/cr35ia_ros2_gazebo -- -j24 -l24
+[0.398s] Invoking command in '/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/cr35ia_ros2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/drail/ros2_ws/install/ur5_ros2_moveit2:/home/drail/ros2_ws/install/ur5_ros2_gazebo:/home/drail/ros2_ws/install/ur3_ros2_moveit2:/home/drail/ros2_ws/install/ur3_ros2_gazebo:/home/drail/ros2_ws/install/ur10_ros2_moveit2:/home/drail/ros2_ws/install/ur10_ros2_gazebo:/home/drail/ros2_ws/install/ros2_grasping:/home/drail/ros2_ws/install/ros2_execution:/home/drail/ros2_ws/install/ros2_actions:/home/drail/ros2_ws/install/panda_ros2_moveit2:/home/drail/ros2_ws/install/irb6640_ros2_moveit2:/home/drail/ros2_ws/install/irb120_ros2_moveit2:/home/drail/ros2_ws/install/irb1200_ros2_moveit2:/home/drail/ros2_ws/install/iiwa_ros2_moveit2:/home/drail/ros2_ws/install/cr35ia_ros2_moveit2:/home/drail/ros2_ws/install/ros2_data:/home/drail/ros2_ws/install/panda_ros2_gazebo:/home/drail/ros2_ws/install/irb6640_ros2_gazebo:/home/drail/ros2_ws/install/irb120_ros2_gazebo:/home/drail/ros2_ws/install/irb1200_ros2_gazebo:/home/drail/ros2_ws/install/iiwa_ros2_gazebo:/home/drail/ros2_ws/install/cr35ia_ros2_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/cr35ia_ros2_gazebo
+[0.409s] -- Install configuration: ""
+[0.409s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/config
+[0.409s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/config/cr35ia_controller.yaml
+[0.409s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/launch
+[0.409s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/launch/cr35ia_simulation.launch.py
+[0.409s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/urdf
+[0.409s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/urdf/cr35ia.urdf.xacro
+[0.409s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/urdf/fanuc_resources
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/urdf/fanuc_resources/common_colours.xacro
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/urdf/fanuc_resources/common_materials.xacro
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/urdf/cr35ia_macro.urdf.xacro
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/urdf/cr35ia_ros2control.xacro
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/urdf/cr35ia_transmission.xacro
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/worlds
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/worlds/cr35ia.world
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/collision
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/collision/link_5.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/collision/link_4.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/collision/link_2.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/collision/link_6.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/collision/base_link.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/collision/link_1.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/collision/link_3.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/visual
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/visual/link_5.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/visual/link_4.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/visual/link_2.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/visual/link_6.stl
+[0.410s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/visual/base_link.stl
+[0.411s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/visual/link_1.stl
+[0.411s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/meshes/visual/link_3.stl
+[0.411s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/ament_index/resource_index/package_run_dependencies/cr35ia_ros2_gazebo
+[0.411s] -- Installing: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/ament_index/resource_index/parent_prefix_path/cr35ia_ros2_gazebo
+[0.411s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/environment/ament_prefix_path.sh
+[0.411s] -- Installing: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/environment/ament_prefix_path.dsv
+[0.411s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/environment/path.sh
+[0.411s] -- Installing: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/environment/path.dsv
+[0.411s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/local_setup.bash
+[0.411s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/local_setup.sh
+[0.411s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/local_setup.zsh
+[0.411s] -- Installing: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/local_setup.dsv
+[0.411s] -- Installing: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/package.dsv
+[0.412s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/ament_index/resource_index/packages/cr35ia_ros2_gazebo
+[0.412s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/cmake/cr35ia_ros2_gazeboConfig.cmake
+[0.412s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/cmake/cr35ia_ros2_gazeboConfig-version.cmake
+[0.412s] -- Up-to-date: /home/drail/ros2_ws/install/cr35ia_ros2_gazebo/share/cr35ia_ros2_gazebo/package.xml
+[0.441s] Invoked command in '/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/cr35ia_ros2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/drail/ros2_ws/install/ur5_ros2_moveit2:/home/drail/ros2_ws/install/ur5_ros2_gazebo:/home/drail/ros2_ws/install/ur3_ros2_moveit2:/home/drail/ros2_ws/install/ur3_ros2_gazebo:/home/drail/ros2_ws/install/ur10_ros2_moveit2:/home/drail/ros2_ws/install/ur10_ros2_gazebo:/home/drail/ros2_ws/install/ros2_grasping:/home/drail/ros2_ws/install/ros2_execution:/home/drail/ros2_ws/install/ros2_actions:/home/drail/ros2_ws/install/panda_ros2_moveit2:/home/drail/ros2_ws/install/irb6640_ros2_moveit2:/home/drail/ros2_ws/install/irb120_ros2_moveit2:/home/drail/ros2_ws/install/irb1200_ros2_moveit2:/home/drail/ros2_ws/install/iiwa_ros2_moveit2:/home/drail/ros2_ws/install/cr35ia_ros2_moveit2:/home/drail/ros2_ws/install/ros2_data:/home/drail/ros2_ws/install/panda_ros2_gazebo:/home/drail/ros2_ws/install/irb6640_ros2_gazebo:/home/drail/ros2_ws/install/irb120_ros2_gazebo:/home/drail/ros2_ws/install/irb1200_ros2_gazebo:/home/drail/ros2_ws/install/iiwa_ros2_gazebo:/home/drail/ros2_ws/install/cr35ia_ros2_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/cr35ia_ros2_gazebo

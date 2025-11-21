@@ -1,0 +1,1 @@
+[0mCMake Error: The current CMakeCache.txt directory /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ur10_ros2_moveit2/CMakeCache.txt is different than the directory /home/drail/ros2_ws/build/ur10_ros2_moveit2 where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m

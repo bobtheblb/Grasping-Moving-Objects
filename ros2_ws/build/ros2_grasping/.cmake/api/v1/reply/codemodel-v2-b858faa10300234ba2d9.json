@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-4fb8ff39603182903a1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "ros2_grasping__py",
+					"jsonFile" : "directory-ros2_grasping__py-de9c6fada4db0426a4f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/drail/ros2_ws/build/ros2_grasping/ros2_grasping__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "ros2_grasping",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_ros2_grasping_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_ros2_grasping_egg-56f02c3a674433fddd54.json",
+					"name" : "ament_cmake_python_build_ros2_grasping_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_ros2_grasping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_ros2_grasping-b58fc137da1aae9d07dd.json",
+					"name" : "ament_cmake_python_copy_ros2_grasping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping-17f175fa98b19ee48c51.json",
+					"name" : "ros2_grasping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__cpp-6a608a8c32ca4072b6b3.json",
+					"name" : "ros2_grasping__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ros2_grasping__py::@31462c384cf154439038",
+					"jsonFile" : "target-ros2_grasping__py-81a7fc30a08c0cbb26e9.json",
+					"name" : "ros2_grasping__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_generator_c-23acd8de2c812f10cf55.json",
+					"name" : "ros2_grasping__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_generator_py-fb87069d6cced93d2377.json",
+					"name" : "ros2_grasping__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_typesupport_c-37db88c9a4d33fdce6f7.json",
+					"name" : "ros2_grasping__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_typesupport_c__pyext-c46510b936a0025499e0.json",
+					"name" : "ros2_grasping__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_typesupport_cpp-41185d4abebd6b67586d.json",
+					"name" : "ros2_grasping__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_typesupport_fastrtps_c-cdf65a067c037d415280.json",
+					"name" : "ros2_grasping__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_typesupport_fastrtps_c__pyext-6fa088b4d38a1b4ac605.json",
+					"name" : "ros2_grasping__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_typesupport_fastrtps_cpp-4e864cade816d2119c10.json",
+					"name" : "ros2_grasping__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_typesupport_introspection_c-dbb6bd3af13ab3d23a99.json",
+					"name" : "ros2_grasping__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_typesupport_introspection_c__pyext-81e4c09dbe7d09ea1195.json",
+					"name" : "ros2_grasping__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping__rosidl_typesupport_introspection_cpp-4c52b3bc889086a20e1e.json",
+					"name" : "ros2_grasping__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_grasping_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_grasping_uninstall-637a4b9177ec64462318.json",
+					"name" : "ros2_grasping_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-489d3f2adb2a337c8e1f.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/drail/ros2_ws/build/ros2_grasping",
+		"source" : "/home/drail/ros2_ws/src/ros2_RobotSimulation/ros2_grasping"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

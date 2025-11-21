@@ -1,0 +1,86 @@
+[0.060s] Invoking command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/drail/ros2_ws/src/ros2_RobotSimulation/ABBRobots/IRB120/irb120_ros2_gazebo -DCMAKE_INSTALL_PREFIX=/home/drail/ros2_ws/install/irb120_ros2_gazebo
+[0.111s] -- The C compiler identification is GNU 11.4.0
+[0.156s] -- The CXX compiler identification is GNU 11.4.0
+[0.164s] -- Detecting C compiler ABI info
+[0.222s] -- Detecting C compiler ABI info - done
+[0.229s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.229s] -- Detecting C compile features
+[0.229s] -- Detecting C compile features - done
+[0.232s] -- Detecting CXX compiler ABI info
+[0.297s] -- Detecting CXX compiler ABI info - done
+[0.303s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.303s] -- Detecting CXX compile features
+[0.303s] -- Detecting CXX compile features - done
+[0.305s] -- Found ament_cmake: 1.3.12 (/home/drail/ros2_humble/ros2-linux/share/ament_cmake/cmake)
+[0.424s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.499s] -- Found ament_lint_auto: 0.12.14 (/home/drail/ros2_humble/ros2-linux/share/ament_lint_auto/cmake)
+[0.565s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.569s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.570s] -- Added test 'lint_cmake' to check CMake code style
+[0.571s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.573s] -- Added test 'xmllint' to check XML markup files
+[0.574s] -- Configuring done
+[0.576s] -- Generating done
+[0.581s] -- Build files have been written to: /home/drail/ros2_ws/build/irb120_ros2_gazebo
+[0.587s] Invoked command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/drail/ros2_ws/src/ros2_RobotSimulation/ABBRobots/IRB120/irb120_ros2_gazebo -DCMAKE_INSTALL_PREFIX=/home/drail/ros2_ws/install/irb120_ros2_gazebo
+[0.589s] Invoking command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drail/ros2_ws/build/irb120_ros2_gazebo -- -j24 -l24
+[0.642s] Invoked command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drail/ros2_ws/build/irb120_ros2_gazebo -- -j24 -l24
+[0.649s] Invoking command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drail/ros2_ws/build/irb120_ros2_gazebo
+[0.662s] -- Install configuration: ""
+[0.662s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/config
+[0.663s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/config/irb120egp64_controller.yaml
+[0.663s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/config/irb120_controller.yaml
+[0.663s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/launch
+[0.663s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/launch/irb120_simulation.launch.py
+[0.663s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/urdf
+[0.663s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/urdf/irb120_transmission.xacro
+[0.663s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/urdf/irb120_ros2control.xacro
+[0.665s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/urdf/irb120.urdf.xacro
+[0.665s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/urdf/irb120_macro.urdf.xacro
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/urdf/abb_resources
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/urdf/abb_resources/common_colours.xacro
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/urdf/abb_resources/common_materials.xacro
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/worlds
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/worlds/irb120.world
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/irb120_cell.dae
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/collision
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/collision/link_5.stl
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/collision/link_4.stl
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/collision/link_2.stl
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/collision/link_6.stl
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/collision/base_link.stl
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/collision/link_1.stl
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/collision/link_3.stl
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/egp64
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/egp64/egp64_LeftFinger.dae
+[0.666s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/egp64/00. Schunk Gripper - Component POSES
+[0.667s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/egp64/egp64_LeftFingerBase.dae
+[0.668s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/egp64/egp64_BaseNoAdapter.dae
+[0.670s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/egp64/egp64_RightFingerBase.dae
+[0.670s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/egp64/egp64_Adapter.dae
+[0.670s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/egp64/egp64_RightFinger.dae
+[0.670s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/visual
+[0.671s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/visual/link_2.dae
+[0.671s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/visual/link_3.dae
+[0.672s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/visual/link_6.dae
+[0.672s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/visual/link_1.dae
+[0.672s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/visual/link_4.dae
+[0.673s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/visual/base_link.dae
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/meshes/visual/link_5.dae
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/ament_index/resource_index/package_run_dependencies/irb120_ros2_gazebo
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/ament_index/resource_index/parent_prefix_path/irb120_ros2_gazebo
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/environment/ament_prefix_path.sh
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/environment/ament_prefix_path.dsv
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/environment/path.sh
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/environment/path.dsv
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/local_setup.bash
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/local_setup.sh
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/local_setup.zsh
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/local_setup.dsv
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/package.dsv
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/ament_index/resource_index/packages/irb120_ros2_gazebo
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/cmake/irb120_ros2_gazeboConfig.cmake
+[0.675s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/cmake/irb120_ros2_gazeboConfig-version.cmake
+[0.676s] -- Installing: /home/drail/ros2_ws/install/irb120_ros2_gazebo/share/irb120_ros2_gazebo/package.xml
+[0.737s] Invoked command in '/home/drail/ros2_ws/build/irb120_ros2_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drail/ros2_ws/build/irb120_ros2_gazebo

@@ -1,0 +1,40 @@
+{
+  "package_name": "ros2_grasping",
+  "output_dir": "/home/drail/ros2_ws/build/ros2_grasping/rosidl_generator_py/ros2_grasping",
+  "template_dir": "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "/home/drail/ros2_ws/build/ros2_grasping/rosidl_adapter/ros2_grasping:action/Attacher.idl"
+  ],
+  "ros_interface_dependencies": [
+    "action_msgs:/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalInfo.idl",
+    "action_msgs:/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalStatus.idl",
+    "action_msgs:/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalStatusArray.idl",
+    "action_msgs:/home/drail/ros2_humble/ros2-linux/share/action_msgs/srv/CancelGoal.idl",
+    "builtin_interfaces:/home/drail/ros2_humble/ros2-linux/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/drail/ros2_humble/ros2-linux/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/home/drail/ros2_humble/ros2-linux/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "/home/drail/ros2_humble/ros2-linux/local/lib/python3.10/dist-packages/rosidl_generator_py/__init__.py",
+    "/home/drail/ros2_humble/ros2-linux/local/lib/python3.10/dist-packages/rosidl_generator_py/generate_py_impl.py",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "/home/drail/ros2_ws/build/ros2_grasping/rosidl_adapter/ros2_grasping/action/Attacher.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalInfo.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalStatus.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/action_msgs/msg/GoalStatusArray.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/action_msgs/srv/CancelGoal.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/builtin_interfaces/msg/Duration.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/builtin_interfaces/msg/Time.idl",
+    "/home/drail/ros2_humble/ros2-linux/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

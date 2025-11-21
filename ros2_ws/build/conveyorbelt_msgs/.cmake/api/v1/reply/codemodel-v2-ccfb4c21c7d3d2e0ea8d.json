@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-184304f75cf618c328a5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "conveyorbelt_msgs__py",
+					"jsonFile" : "directory-conveyorbelt_msgs__py-7172e6c2d0e636668dfb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/conveyorbelt_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "conveyorbelt_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_conveyorbelt_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_conveyorbelt_msgs_egg-8aa4347e0641a60098fd.json",
+					"name" : "ament_cmake_python_build_conveyorbelt_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_conveyorbelt_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_conveyorbelt_msgs-14a9620e884c42052a0c.json",
+					"name" : "ament_cmake_python_copy_conveyorbelt_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs-5ca1b9938647dfad0df1.json",
+					"name" : "conveyorbelt_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__cpp-a29b329df841c17da669.json",
+					"name" : "conveyorbelt_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "conveyorbelt_msgs__py::@e38449f765b71972820e",
+					"jsonFile" : "target-conveyorbelt_msgs__py-5437a95d74b0fddc6118.json",
+					"name" : "conveyorbelt_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_generator_c-8bbabd7a63e0c9ee3448.json",
+					"name" : "conveyorbelt_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_generator_py-8527aaf1b7e6de1a926f.json",
+					"name" : "conveyorbelt_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_typesupport_c-09888bcbd91f7202d6e8.json",
+					"name" : "conveyorbelt_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_typesupport_c__pyext-d0cc528c0ffb0e80585c.json",
+					"name" : "conveyorbelt_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_typesupport_cpp-4939ab9e1fd8ebea9c7f.json",
+					"name" : "conveyorbelt_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_typesupport_fastrtps_c-1e852c3b5c470cae1877.json",
+					"name" : "conveyorbelt_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_typesupport_fastrtps_c__pyext-9c7749f6986565a15165.json",
+					"name" : "conveyorbelt_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_typesupport_fastrtps_cpp-4d0b48146d2274ebda47.json",
+					"name" : "conveyorbelt_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_typesupport_introspection_c-8bd5ef7f5c121bda84a7.json",
+					"name" : "conveyorbelt_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_typesupport_introspection_c__pyext-54de91c9ca5c6155a8f7.json",
+					"name" : "conveyorbelt_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs__rosidl_typesupport_introspection_cpp-46e3a380b7855e5e2eb7.json",
+					"name" : "conveyorbelt_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_msgs_uninstall-bb173c1537f752d31460.json",
+					"name" : "conveyorbelt_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-dd6385dda51bd2dda7b4.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs",
+		"source" : "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/src/IFRA_ConveyorBelt/conveyorbelt_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

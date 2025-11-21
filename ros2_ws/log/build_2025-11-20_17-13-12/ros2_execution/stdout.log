@@ -1,0 +1,29 @@
+-- Found ament_cmake: 1.3.12 (/home/drail/ros2_humble/ros2-linux/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.14 (/home/drail/ros2_humble/ros2-linux/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/drail/ros2_ws/build/ros2_execution
+-- Install configuration: ""
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/scripts
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/scripts/ros2_execution.py
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/lib/ros2_execution/ros2_execution.py
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ament_index/resource_index/package_run_dependencies/ros2_execution
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ament_index/resource_index/parent_prefix_path/ros2_execution
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/environment/ament_prefix_path.sh
+-- Installing: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/environment/path.sh
+-- Installing: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/environment/path.dsv
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/local_setup.bash
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/local_setup.sh
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/local_setup.zsh
+-- Installing: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/local_setup.dsv
+-- Installing: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/package.dsv
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ament_index/resource_index/packages/ros2_execution
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/cmake/ros2_executionConfig.cmake
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/cmake/ros2_executionConfig-version.cmake
+-- Up-to-date: /home/drail/ros2_ws/install/ros2_execution/share/ros2_execution/package.xml

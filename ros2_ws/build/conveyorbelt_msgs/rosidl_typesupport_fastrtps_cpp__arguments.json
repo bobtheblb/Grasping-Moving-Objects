@@ -1,0 +1,21 @@
+{
+  "package_name": "conveyorbelt_msgs",
+  "output_dir": "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_typesupport_fastrtps_cpp/conveyorbelt_msgs",
+  "template_dir": "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_fastrtps_cpp/resource",
+  "idl_tuples": [
+    "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_adapter/conveyorbelt_msgs:msg/ConveyorBeltState.idl",
+    "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_adapter/conveyorbelt_msgs:srv/ConveyorBeltControl.idl"
+  ],
+  "target_dependencies": [
+    "/home/drail/ros2_humble/ros2-linux/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp",
+    "/home/drail/ros2_humble/ros2-linux/local/lib/python3.10/dist-packages/rosidl_typesupport_fastrtps_cpp/__init__.py",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/home/drail/ros2_humble/ros2-linux/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em",
+    "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_adapter/conveyorbelt_msgs/msg/ConveyorBeltState.idl",
+    "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_msgs/rosidl_adapter/conveyorbelt_msgs/srv/ConveyorBeltControl.idl"
+  ]
+}

@@ -1,0 +1,187 @@
+[0.057s] Invoking command in '/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ros2_grasping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/drail/ros2_ws/install/ur5_ros2_moveit2:/home/drail/ros2_ws/install/ur5_ros2_gazebo:/home/drail/ros2_ws/install/ur3_ros2_moveit2:/home/drail/ros2_ws/install/ur3_ros2_gazebo:/home/drail/ros2_ws/install/ur10_ros2_moveit2:/home/drail/ros2_ws/install/ur10_ros2_gazebo:/home/drail/ros2_ws/install/ros2_grasping:/home/drail/ros2_ws/install/ros2_execution:/home/drail/ros2_ws/install/ros2_actions:/home/drail/ros2_ws/install/panda_ros2_moveit2:/home/drail/ros2_ws/install/irb6640_ros2_moveit2:/home/drail/ros2_ws/install/irb120_ros2_moveit2:/home/drail/ros2_ws/install/irb1200_ros2_moveit2:/home/drail/ros2_ws/install/iiwa_ros2_moveit2:/home/drail/ros2_ws/install/cr35ia_ros2_moveit2:/home/drail/ros2_ws/install/ros2_data:/home/drail/ros2_ws/install/panda_ros2_gazebo:/home/drail/ros2_ws/install/irb6640_ros2_gazebo:/home/drail/ros2_ws/install/irb120_ros2_gazebo:/home/drail/ros2_ws/install/irb1200_ros2_gazebo:/home/drail/ros2_ws/install/iiwa_ros2_gazebo:/home/drail/ros2_ws/install/cr35ia_ros2_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ros2_grasping -- -j24 -l24
+[0.069s] [0mCMake Error: The current CMakeCache.txt directory /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ros2_grasping/CMakeCache.txt is different than the directory /home/drail/ros2_ws/build/ros2_grasping where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[0.080s] -- Found ament_cmake: 1.3.12 (/home/drail/ros2_humble/ros2-linux/share/ament_cmake/cmake)
+[0.185s] -- Found ament_lint_auto: 0.12.14 (/home/drail/ros2_humble/ros2-linux/share/ament_lint_auto/cmake)
+[0.245s] -- Found rosidl_default_generators: 1.2.0 (/home/drail/ros2_humble/ros2-linux/share/rosidl_default_generators/cmake)
+[0.252s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.255s] -- Found rosidl_adapter: 3.1.7 (/home/drail/ros2_humble/ros2-linux/share/rosidl_adapter/cmake)
+[0.284s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.475s] -- Found ament_cmake_ros: 0.10.0 (/home/drail/ros2_humble/ros2-linux/share/ament_cmake_ros/cmake)
+[0.623s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.836s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.854s] -- Found python_cmake_module: 0.10.0 (/home/drail/ros2_humble/ros2-linux/share/python_cmake_module/cmake)
+[0.873s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.873s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.873s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.924s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.925s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.925s] -- Added test 'lint_cmake' to check CMake code style
+[0.926s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.926s] -- Added test 'xmllint' to check XML markup files
+[0.929s] -- Configuring done
+[0.953s] -- Generating done
+[0.963s] -- Build files have been written to: /home/drail/ros2_ws/build/ros2_grasping
+[0.987s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_generator_c[0m
+[0.996s] [  3%] Built target ros2_grasping__cpp
+[0.997s] [ 12%] Built target ros2_grasping__rosidl_generator_c
+[1.003s] [ 12%] Built target ament_cmake_python_copy_ros2_grasping
+[1.006s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_typesupport_fastrtps_cpp[0m
+[1.006s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_typesupport_cpp[0m
+[1.007s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_typesupport_introspection_cpp[0m
+[1.008s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_typesupport_c[0m
+[1.008s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_typesupport_introspection_c[0m
+[1.008s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_typesupport_fastrtps_c[0m
+[1.018s] [ 51%] Built target ros2_grasping__rosidl_typesupport_cpp
+[1.019s] [ 51%] Built target ros2_grasping__rosidl_typesupport_c
+[1.019s] [ 51%] Built target ros2_grasping__rosidl_typesupport_fastrtps_cpp
+[1.019s] [ 51%] Built target ros2_grasping__rosidl_typesupport_introspection_c
+[1.019s] [ 61%] Built target ros2_grasping__rosidl_typesupport_introspection_cpp
+[1.019s] [ 70%] Built target ros2_grasping__rosidl_typesupport_fastrtps_c
+[1.038s] [ 70%] Built target ros2_grasping
+[1.057s] [ 74%] Built target ros2_grasping__py
+[1.067s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_generator_py[0m
+[1.079s] [ 80%] Built target ros2_grasping__rosidl_generator_py
+[1.089s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_typesupport_c__pyext[0m
+[1.090s] [35m[1mConsolidate compiler generated dependencies of target ros2_grasping__rosidl_typesupport_introspection_c__pyext[0m
+[1.101s] [ 87%] Built target ros2_grasping__rosidl_typesupport_fastrtps_c__pyext
+[1.103s] [ 93%] Built target ros2_grasping__rosidl_typesupport_c__pyext
+[1.103s] [100%] Built target ros2_grasping__rosidl_typesupport_introspection_c__pyext
+[1.203s] running egg_info
+[1.204s] writing ros2_grasping.egg-info/PKG-INFO
+[1.204s] writing dependency_links to ros2_grasping.egg-info/dependency_links.txt
+[1.204s] writing top-level names to ros2_grasping.egg-info/top_level.txt
+[1.205s] reading manifest file 'ros2_grasping.egg-info/SOURCES.txt'
+[1.206s] writing manifest file 'ros2_grasping.egg-info/SOURCES.txt'
+[1.226s] [100%] Built target ament_cmake_python_build_ros2_grasping_egg
+[1.237s] Invoked command in '/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ros2_grasping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/drail/ros2_ws/install/ur5_ros2_moveit2:/home/drail/ros2_ws/install/ur5_ros2_gazebo:/home/drail/ros2_ws/install/ur3_ros2_moveit2:/home/drail/ros2_ws/install/ur3_ros2_gazebo:/home/drail/ros2_ws/install/ur10_ros2_moveit2:/home/drail/ros2_ws/install/ur10_ros2_gazebo:/home/drail/ros2_ws/install/ros2_grasping:/home/drail/ros2_ws/install/ros2_execution:/home/drail/ros2_ws/install/ros2_actions:/home/drail/ros2_ws/install/panda_ros2_moveit2:/home/drail/ros2_ws/install/irb6640_ros2_moveit2:/home/drail/ros2_ws/install/irb120_ros2_moveit2:/home/drail/ros2_ws/install/irb1200_ros2_moveit2:/home/drail/ros2_ws/install/iiwa_ros2_moveit2:/home/drail/ros2_ws/install/cr35ia_ros2_moveit2:/home/drail/ros2_ws/install/ros2_data:/home/drail/ros2_ws/install/panda_ros2_gazebo:/home/drail/ros2_ws/install/irb6640_ros2_gazebo:/home/drail/ros2_ws/install/irb120_ros2_gazebo:/home/drail/ros2_ws/install/irb1200_ros2_gazebo:/home/drail/ros2_ws/install/iiwa_ros2_gazebo:/home/drail/ros2_ws/install/cr35ia_ros2_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ros2_grasping -- -j24 -l24
+[1.238s] Invoking command in '/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ros2_grasping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/drail/ros2_ws/install/ur5_ros2_moveit2:/home/drail/ros2_ws/install/ur5_ros2_gazebo:/home/drail/ros2_ws/install/ur3_ros2_moveit2:/home/drail/ros2_ws/install/ur3_ros2_gazebo:/home/drail/ros2_ws/install/ur10_ros2_moveit2:/home/drail/ros2_ws/install/ur10_ros2_gazebo:/home/drail/ros2_ws/install/ros2_grasping:/home/drail/ros2_ws/install/ros2_execution:/home/drail/ros2_ws/install/ros2_actions:/home/drail/ros2_ws/install/panda_ros2_moveit2:/home/drail/ros2_ws/install/irb6640_ros2_moveit2:/home/drail/ros2_ws/install/irb120_ros2_moveit2:/home/drail/ros2_ws/install/irb1200_ros2_moveit2:/home/drail/ros2_ws/install/iiwa_ros2_moveit2:/home/drail/ros2_ws/install/cr35ia_ros2_moveit2:/home/drail/ros2_ws/install/ros2_data:/home/drail/ros2_ws/install/panda_ros2_gazebo:/home/drail/ros2_ws/install/irb6640_ros2_gazebo:/home/drail/ros2_ws/install/irb120_ros2_gazebo:/home/drail/ros2_ws/install/irb1200_ros2_gazebo:/home/drail/ros2_ws/install/iiwa_ros2_gazebo:/home/drail/ros2_ws/install/cr35ia_ros2_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ros2_grasping
+[1.246s] -- Install configuration: ""
+[1.246s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/urdf
+[1.246s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/urdf/box.urdf
+[1.246s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ament_index/resource_index/rosidl_interfaces/ros2_grasping
+[1.246s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__functions.h
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__struct.h
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__type_support.h
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__functions.c
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/attacher.h
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg/rosidl_generator_c__visibility_control.h
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/environment/library_path.sh
+[1.247s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/environment/library_path.dsv
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/libros2_grasping__rosidl_generator_c.so
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail
+[1.247s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__rosidl_typesupport_fastrtps_c.h
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/libros2_grasping__rosidl_typesupport_fastrtps_c.so
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__type_support.c
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__rosidl_typesupport_introspection_c.h
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/libros2_grasping__rosidl_typesupport_introspection_c.so
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/libros2_grasping__rosidl_typesupport_c.so
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping
+[1.248s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__builder.hpp
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__traits.hpp
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__type_support.hpp
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__struct.hpp
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/attacher.hpp
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__rosidl_typesupport_fastrtps_cpp.hpp
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/dds_fastrtps
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/libros2_grasping__rosidl_typesupport_fastrtps_cpp.so
+[1.249s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping
+[1.250s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action
+[1.250s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail
+[1.250s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__type_support.cpp
+[1.250s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/include/ros2_grasping/ros2_grasping/action/detail/attacher__rosidl_typesupport_introspection_cpp.hpp
+[1.250s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/libros2_grasping__rosidl_typesupport_introspection_cpp.so
+[1.250s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/libros2_grasping__rosidl_typesupport_cpp.so
+[1.250s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/environment/pythonpath.sh
+[1.250s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/environment/pythonpath.dsv
+[1.250s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping-0.0.0-py3.10.egg-info
+[1.250s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping-0.0.0-py3.10.egg-info/top_level.txt
+[1.250s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping-0.0.0-py3.10.egg-info/PKG-INFO
+[1.250s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.251s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/_ros2_grasping_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/ros2_grasping_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/libros2_grasping__rosidl_generator_py.so
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/ros2_grasping_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/_ros2_grasping_s.ep.rosidl_typesupport_c.c
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/_ros2_grasping_s.ep.rosidl_typesupport_introspection_c.c
+[1.251s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/__init__.py
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/ros2_grasping_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/action
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/action/_attacher.py
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/action/_attacher_s.c
+[1.251s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/action/__init__.py
+[1.278s] Listing '/home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping'...
+[1.278s] Compiling '/home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/__init__.py'...
+[1.278s] Listing '/home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/action'...
+[1.281s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/ros2_grasping_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.281s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/ros2_grasping_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.281s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/local/lib/python3.10/dist-packages/ros2_grasping/ros2_grasping_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.282s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/libros2_grasping__rosidl_generator_py.so
+[1.282s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/action/Attacher.idl
+[1.282s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/action/Attacher.action
+[1.282s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/ros2_grasping/attacher_action.py
+[1.282s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/lib/ros2_grasping/spawn_object.py
+[1.282s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ament_index/resource_index/package_run_dependencies/ros2_grasping
+[1.282s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/share/ament_index/resource_index/parent_prefix_path/ros2_grasping
+[1.282s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/environment/ament_prefix_path.sh
+[1.282s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/environment/ament_prefix_path.dsv
+[1.283s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/environment/path.sh
+[1.283s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/environment/path.dsv
+[1.283s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/local_setup.bash
+[1.283s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/local_setup.sh
+[1.283s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/local_setup.zsh
+[1.283s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/local_setup.dsv
+[1.283s] -- Installing: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/package.dsv
+[1.283s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ament_index/resource_index/packages/ros2_grasping
+[1.283s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/export_ros2_grasping__rosidl_generator_cExport.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/export_ros2_grasping__rosidl_generator_cExport-noconfig.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/export_ros2_grasping__rosidl_typesupport_fastrtps_cExport.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/export_ros2_grasping__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_grasping__rosidl_typesupport_introspection_cExport.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_grasping__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_grasping__rosidl_typesupport_cExport.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_grasping__rosidl_typesupport_cExport-noconfig.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/export_ros2_grasping__rosidl_generator_cppExport.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/export_ros2_grasping__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/export_ros2_grasping__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.284s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_grasping__rosidl_typesupport_introspection_cppExport.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_grasping__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_grasping__rosidl_typesupport_cppExport.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_grasping__rosidl_typesupport_cppExport-noconfig.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/export_ros2_grasping__rosidl_generator_pyExport.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/export_ros2_grasping__rosidl_generator_pyExport-noconfig.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/rosidl_cmake-extras.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ament_cmake_export_libraries-extras.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ament_cmake_export_targets-extras.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.285s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_graspingConfig.cmake
+[1.286s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/cmake/ros2_graspingConfig-version.cmake
+[1.286s] -- Up-to-date: /home/drail/ros2_ws/install/ros2_grasping/share/ros2_grasping/package.xml
+[1.288s] Invoked command in '/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ros2_grasping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/drail/ros2_ws/install/ur5_ros2_moveit2:/home/drail/ros2_ws/install/ur5_ros2_gazebo:/home/drail/ros2_ws/install/ur3_ros2_moveit2:/home/drail/ros2_ws/install/ur3_ros2_gazebo:/home/drail/ros2_ws/install/ur10_ros2_moveit2:/home/drail/ros2_ws/install/ur10_ros2_gazebo:/home/drail/ros2_ws/install/ros2_grasping:/home/drail/ros2_ws/install/ros2_execution:/home/drail/ros2_ws/install/ros2_actions:/home/drail/ros2_ws/install/panda_ros2_moveit2:/home/drail/ros2_ws/install/irb6640_ros2_moveit2:/home/drail/ros2_ws/install/irb120_ros2_moveit2:/home/drail/ros2_ws/install/irb1200_ros2_moveit2:/home/drail/ros2_ws/install/iiwa_ros2_moveit2:/home/drail/ros2_ws/install/cr35ia_ros2_moveit2:/home/drail/ros2_ws/install/ros2_data:/home/drail/ros2_ws/install/panda_ros2_gazebo:/home/drail/ros2_ws/install/irb6640_ros2_gazebo:/home/drail/ros2_ws/install/irb120_ros2_gazebo:/home/drail/ros2_ws/install/irb1200_ros2_gazebo:/home/drail/ros2_ws/install/iiwa_ros2_gazebo:/home/drail/ros2_ws/install/cr35ia_ros2_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/ros2_grasping

@@ -1,0 +1,6 @@
+Invoking command in '/home/drail/ros2_ws/build/ros2_data': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/drail/ros2_ws/src/ros2_RobotSimulation/ros2_data -DCMAKE_INSTALL_PREFIX=/home/drail/ros2_ws/install/ros2_data
+Invoked command in '/home/drail/ros2_ws/build/ros2_data' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/drail/ros2_ws/src/ros2_RobotSimulation/ros2_data -DCMAKE_INSTALL_PREFIX=/home/drail/ros2_ws/install/ros2_data
+Invoking command in '/home/drail/ros2_ws/build/ros2_data': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drail/ros2_ws/build/ros2_data -- -j24 -l24
+Invoked command in '/home/drail/ros2_ws/build/ros2_data' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drail/ros2_ws/build/ros2_data -- -j24 -l24
+Invoking command in '/home/drail/ros2_ws/build/ros2_data': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drail/ros2_ws/build/ros2_data
+Invoked command in '/home/drail/ros2_ws/build/ros2_data' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drail/ros2_ws/build/ros2_data

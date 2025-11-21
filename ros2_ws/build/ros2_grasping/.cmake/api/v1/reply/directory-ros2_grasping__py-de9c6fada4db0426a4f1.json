@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "ros2_grasping__py",
+		"source" : "/home/drail/ros2_ws/build/ros2_grasping/ros2_grasping__py"
+	}
+}

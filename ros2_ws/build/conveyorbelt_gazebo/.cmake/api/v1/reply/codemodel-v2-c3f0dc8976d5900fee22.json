@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-c1344d06654fa26c3b46.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "conveyorbelt_gazebo",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "conveyorbelt_gazebo_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conveyorbelt_gazebo_uninstall-11ee9f0f3875e34bf722.json",
+					"name" : "conveyorbelt_gazebo_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a25b893bc957943051e9.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/build/conveyorbelt_gazebo",
+		"source" : "/home/drail/changk2/school/ROB545/Grasping-Moving-Objects/ros2_ws/src/IFRA_ConveyorBelt/conveyorbelt_gazebo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
